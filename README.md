@@ -1,1 +1,4 @@
-There is nothing here, but check these out: [issu.cloud](https://issu.cloud) OR [issu.money](https://issu.money)
+There is nothing here, but check these out:
+
+- [issu.cloud](https://issu.cloud)
+- [issu.money](https://issu.money)
