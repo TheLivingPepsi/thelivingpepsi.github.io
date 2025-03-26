@@ -1,3 +1,10 @@
 remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-remote-theme
+
+title: issu's sites
+description: Some sites by issu/TheLivingPepsi.
+
+theme_config:
+  appearance: "dark"
+  lowercase_titles: true
