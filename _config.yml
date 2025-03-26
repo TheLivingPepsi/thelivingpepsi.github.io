@@ -2,8 +2,8 @@ remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-remote-theme
 
-title: issu's sites
-description: Some sites by issu/TheLivingPepsi.
+title: "issu's sites"
+description: "There's not much here but a few sites of mine."
 
 theme_config:
   appearance: "dark"
